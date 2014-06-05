@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "Application Test", "Application Test\Application Test.phpproj", "{99ED897E-74AA-41B9-9091-A8F45E430153}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99ED897E-74AA-41B9-9091-A8F45E430153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99ED897E-74AA-41B9-9091-A8F45E430153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99ED897E-74AA-41B9-9091-A8F45E430153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99ED897E-74AA-41B9-9091-A8F45E430153}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
